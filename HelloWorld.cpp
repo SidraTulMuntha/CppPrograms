@@ -22,5 +22,5 @@ int main()
     //std::cout relation
     //currrent definition
     return 0;
-    //importance
+    //importance of return 0
 }
