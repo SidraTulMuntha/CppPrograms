@@ -1,0 +1,12 @@
+#include<stdio.h>
+int main()
+{
+int i,n;
+printf("Enter how much you feel sorry : ");
+scanf("%d",&n);
+for(i=0;i<=n;i++)
+{
+    printf("I M SORRY \n");
+}
+return 0;
+}    
